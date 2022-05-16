@@ -25,4 +25,4 @@ In this tutorial, you’ll learn how to:
 
   from PIL import Image, ImageDraw, ImageEnhance
 
-  from math import floor, sin, cos, pi
+  from math import floor, sin, cos, pi, sqrt
