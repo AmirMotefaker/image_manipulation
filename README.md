@@ -1,5 +1,11 @@
 # Image Manipulation with Python
 
+In this tutorial, you’ll learn how to:
+
+  - Read images with Image.open
+  
+  - Perform basic image manipulation operations
+
 This python codes is used to load and manipulate images:
   
     1 - Crop
