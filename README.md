@@ -1,2 +1,3 @@
-# image_manipulation
-Image manipulation codes
+# Image Manipulation with Python
+
+This python codes is used to load and manipulate images.
