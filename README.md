@@ -15,4 +15,7 @@ This python codes is used to load and manipulate images:
     11- Edge detection (Sobel operator)
     
  
-    
+# Rquirements
+
+from PIL import Image, ImageDraw
+from math import floor
