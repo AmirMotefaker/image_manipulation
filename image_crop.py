@@ -8,7 +8,7 @@
 from PIL import Image, ImageDraw
 
 # Load image:
-input_image = Image.open("image1.png")
+input_image = Image.open("image.png")
 input_pixels = input_image.load()
 
 # Cropped area
@@ -25,4 +25,4 @@ for x in range(output_image.width):
         xp, yp = x + origin[0], y + origin[1]
         draw.point((x, y), input_pixels[xp, yp])
 
-output_image.save("image1_crop.png")
+output_image.save("image_crop.png")
