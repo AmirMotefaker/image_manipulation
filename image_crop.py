@@ -25,4 +25,4 @@ for x in range(output_image.width):
         xp, yp = x + origin[0], y + origin[1]
         draw.point((x, y), input_pixels[xp, yp])
 
-output_image.save("image_crop.png")
+output_image.save("image_crop_output.png")
