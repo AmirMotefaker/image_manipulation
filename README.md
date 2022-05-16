@@ -23,6 +23,6 @@ In this tutorial, you’ll learn how to:
  
 # Rquirements
 
-  from PIL import Image, ImageDraw
+  from PIL import Image, ImageDraw, ImageEnhance
 
   from math import floor, sin, cos, pi
