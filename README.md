@@ -17,5 +17,6 @@ This python codes is used to load and manipulate images:
  
 # Rquirements
 
-from PIL import Image, ImageDraw
-from math import floor
+  from PIL import Image, ImageDraw
+
+  from math import floor
