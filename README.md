@@ -25,4 +25,4 @@ In this tutorial, you’ll learn how to:
 
   from PIL import Image, ImageDraw
 
-  from math import floor
+  from math import floor,sin, cos, pi
