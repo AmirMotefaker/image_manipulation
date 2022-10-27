@@ -6,7 +6,7 @@ In this tutorial, you’ll learn how to:
   
   - Perform basic image manipulation operations
 
-# is python codes is used to load and manipulate images:
+# This python codes is used to load and manipulate images:
   
     1 - Crop
     2 - Scale
